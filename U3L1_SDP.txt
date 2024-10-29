@@ -1,0 +1,5 @@
+1. recursion is when a function calls itself inside itself. recursion has a limit. while loops is when the computer does something over and over again as long as a condition
+is met. it has no limit and should be used instead of recursion when possible
+
+2. recursion has a limit meaning it can only happen a certain amount of times. it also goes in both directions. while loops are easier for the computer to do and are
+typically better to use since they don't go in both directions

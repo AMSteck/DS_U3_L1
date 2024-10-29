@@ -1,7 +1,7 @@
 #Alannah Steck
 #U3L1
 #While vs Recursion
- #ʕ •ᴥ•ʔ good luck bear 
+#ʕ •ᴥ•ʔ good luck bear 
 
 def sample(num):
     if num == 0:
